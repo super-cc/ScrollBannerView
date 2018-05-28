@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scroll Banner View</string>
+    <string name="more_text">
+        banner\nbanner\nbanner\nbanner\nbanner\nbanner\nbanner\n
+        banner\nbanner\nbanner\nbanner\nbanner\nbanner\nbanner\n
+        banner\nbanner\nbanner\nbanner\nbanner\nbanner\nbanner\n
+        banner\nbanner\nbanner\nbanner\nbanner\nbanner\nbanner
+    </string>
+</resources>
